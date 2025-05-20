@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently specializing in machine learning and datascience
 - 💞️ I’m looking to collaborate on ML-centric pojects
-- 📫 How to reach me : email me : preethi4.kakarla@gmail.com
+- 📫 How to reach me : email me : preethikakarla4@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Roses are red, violets are blue
 
